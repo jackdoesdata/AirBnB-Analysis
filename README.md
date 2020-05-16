@@ -1,2 +1,4 @@
 # AirBnB-Analysis
- an analysis of AirBnB properties in SF.
+ An analysis of AirBnB properties in SF.
+ 
+ Data sourced from: http://insideairbnb.com/get-the-data.html
